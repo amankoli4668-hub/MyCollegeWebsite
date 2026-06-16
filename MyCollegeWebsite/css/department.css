@@ -1,0 +1,26 @@
+main{
+    margin: 2vh 20vw;
+}
+
+main h1{
+    font-size: 25px;
+    margin: 40px 0;
+}
+
+main p{
+    font-size: 15px;
+    margin: 10px 0 ;
+}
+
+main ul h2{
+    font-size: 20px;
+    color: rgb(0, 78, 174);
+}
+
+main ul h3{
+    font-size: 15px;
+}
+
+main ul{
+    margin: 0 0 50px 20px;
+}

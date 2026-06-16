@@ -1,0 +1,44 @@
+main{
+    margin: 0 20vw;
+}
+
+h1{
+    margin: 20px 0;
+    font-size: 20px;
+}
+
+main .content{
+    padding: 10vh 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+main .text{
+    margin: 0 20px 0 0;
+}
+
+
+main .info{
+    font-size: 13px;
+    
+}
+
+main image{
+    margin: 0 0 18px 25px;
+}
+
+main img{
+    border-radius: 20px;
+    border: 2px solid rgb(193, 229, 229);
+    width: 220px;
+}
+
+main .image p{
+    font-size: 13px;
+}
+
+.text h2{
+    font-size: 16px;
+    margin: 20px 0 5px 0;
+    color: rgb(1, 64, 141);
+}
